@@ -1,0 +1,126 @@
+Point 1:
+Percentage of tree pixels: 0.16816647315897168 
+Percentage of building pixels: 0.155812201025737 
+Percentage of sky pixels: 0.6632078994032944 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, 17: 0, 18: 0, 19: 1, 20: 1}
+
+Point 2:
+Percentage of tree pixels: 0.31259640030061187 
+Percentage of building pixels: 0.1263257562355019 
+Percentage of sky pixels: 0.5517733126320661 
+Sun Status by Hour: {4: 1, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, 17: 0, 18: 0, 19: 1, 20: 1}
+
+Point 3:
+Percentage of tree pixels: 0.34539111383479654 
+Percentage of building pixels: 0.12375215657857305 
+Percentage of sky pixels: 0.5022977557429741 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 1, 17: 0, 18: 0, 19: 1, 20: 1}
+
+Point 4:
+Percentage of tree pixels: 0.22307436463196986 
+Percentage of building pixels: 0.3411655643760818 
+Percentage of sky pixels: 0.37621599894700936 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 5:
+Percentage of tree pixels: 0.3648870087282166 
+Percentage of building pixels: 0.31455632155276486 
+Percentage of sky pixels: 0.24544984919872226 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 0, 12: 0, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 6:
+Percentage of tree pixels: 0.48478499318528245 
+Percentage of building pixels: 0.17485135706996868 
+Percentage of sky pixels: 0.16305701293168723 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 7:
+Percentage of tree pixels: 0.16929201949164896 
+Percentage of building pixels: 0.4088963554352857 
+Percentage of sky pixels: 0.37984400453465317 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 8:
+Percentage of tree pixels: 0.4231666428422821 
+Percentage of building pixels: 0.29687485404615893 
+Percentage of sky pixels: 0.26872150804108363 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 0, 14: 0, 15: 0, 16: 0, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 9:
+Percentage of tree pixels: 0.09480538780200946 
+Percentage of building pixels: 0.42694806803111984 
+Percentage of sky pixels: 0.4167071681204259 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 10:
+Percentage of tree pixels: 0.0 
+Percentage of building pixels: 0.24599615884873025 
+Percentage of sky pixels: 0.6784330820214589 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, 17: 0, 18: 0, 19: 1, 20: 1}
+
+Point 11:
+Percentage of tree pixels: 0.7526208002445656 
+Percentage of building pixels: 0.12829954752540126 
+Percentage of sky pixels: 0.10821290224878602 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 12:
+Percentage of tree pixels: 0.13643135251267055 
+Percentage of building pixels: 0.35409583629958713 
+Percentage of sky pixels: 0.43856464923665256 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 13:
+Percentage of tree pixels: 0.0 
+Percentage of building pixels: 0.4831321941975122 
+Percentage of sky pixels: 0.468442975038178 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 14:
+Percentage of tree pixels: 0.0 
+Percentage of building pixels: 0.4980880577559694 
+Percentage of sky pixels: 0.45214879436819855 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 15:
+Percentage of tree pixels: 0.0 
+Percentage of building pixels: 0.49316787416195956 
+Percentage of sky pixels: 0.4378264235541547 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 16:
+Percentage of tree pixels: 0.3290239031701528 
+Percentage of building pixels: 0.06976345924402633 
+Percentage of sky pixels: 0.5890197421588289 
+Sun Status by Hour: {4: 1, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0, 13: 1, 14: 0, 15: 0, 16: 0, 17: 0, 18: 0, 19: 1, 20: 1}
+
+Point 17:
+Percentage of tree pixels: 0.44551325508556255 
+Percentage of building pixels: 0.24731579386859412 
+Percentage of sky pixels: 0.2937594737311392 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 18:
+Percentage of tree pixels: 0.6370485691923816 
+Percentage of building pixels: 0.12393105175930107 
+Percentage of sky pixels: 0.22593838589558693 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 19:
+Percentage of tree pixels: 0.5481450239824275 
+Percentage of building pixels: 0.22629900687699117 
+Percentage of sky pixels: 0.21259540958362996 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 0, 13: 1, 14: 1, 15: 1, 16: 0, 17: 0, 18: 0, 19: 1, 20: 1}
+
+Point 20:
+Percentage of tree pixels: 0.2715693947709958 
+Percentage of building pixels: 0.2466944727899581 
+Percentage of sky pixels: 0.39736950488211176 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 0, 10: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
+Point 21:
+Percentage of tree pixels: 0.0 
+Percentage of building pixels: 0.5039426289948893 
+Percentage of sky pixels: 0.00010473293808443457 
+Sun Status by Hour: {4: 1, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1, 10: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 1, 20: 1}
+
